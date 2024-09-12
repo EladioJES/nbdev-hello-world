@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://EladioJES.github.io/nbdev-hello-world"
+  description: "This a nbdev tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/EladioJES/nbdev-hello-world"
